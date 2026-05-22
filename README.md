@@ -27,3 +27,8 @@ Simple. Fast. Powerful.
 ---
 
 ## ⬇ Download
+
+Download the latest release here:
+
+[Download Auto Jailbreak](./AutoJailbreak.exe)
+
